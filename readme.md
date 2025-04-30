@@ -50,6 +50,8 @@ https://www.elecrow.com/nrflr1121-wireless-transceiver-module-integrates-nordic-
 
 |--factory_firmware: Stores pre-compiled factory firmware that can be directly flashed onto the device. This ensures the device runs the default functionality.
 
+|--lora development board：Schematic diagram of the expansion board of the module, customers can refer to for designing.
+
 ### 5,Pin definition
 
 **IO port definition**
